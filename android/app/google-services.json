@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "619766186262",
+    "project_id": "testsnslogin-951da",
+    "storage_bucket": "testsnslogin-951da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619766186262:android:14100286f4bb0c5ab95037",
+        "android_client_info": {
+          "package_name": "com.anomalo.snslogin.sample_sns_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619766186262-dhtikrjduvpna678303em339uvh04ng4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anomalo.snslogin.sample_sns_login",
+            "certificate_hash": "3675cf865892186047edaa4e1b13594218b1f384"
+          }
+        },
+        {
+          "client_id": "619766186262-vmraidfbris9qbgpu60snbl7933qeo7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDACR1UzYJJQ64Xxrm5vLXteRnLu7X_rqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619766186262-vmraidfbris9qbgpu60snbl7933qeo7m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "619766186262-6jaqm1r4qdu1r0igirrcbnteo6d73cb8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anomalo.snslogin.sample-sns-login"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
