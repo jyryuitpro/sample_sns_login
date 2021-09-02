@@ -21,7 +21,7 @@ class Home extends StatelessWidget {
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Text('${snapshot.data!.displayName}님 환영합니다.'),
+                  Text('${snapshot.data!.displayName ?? snapshot.data!.email}님 환영합니다.'),
                   FlatButton(
                     color: Colors.grey.withOpacity(0.3),
                     child: Text('Logout'),
