@@ -24,7 +24,7 @@ class Home extends StatelessWidget {
                   Text('${snapshot.data!.displayName}님 환영합니다.'),
                   FlatButton(
                     color: Colors.grey.withOpacity(0.3),
-                    child: Text('Google Logout'),
+                    child: Text('Logout'),
                     onPressed: FirebaseAuth.instance.signOut,
                   ),
                 ],
